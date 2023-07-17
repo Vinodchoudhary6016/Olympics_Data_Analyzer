@@ -2,6 +2,3 @@ streamlit
 plotly
 seaborn
 matplotlib
-plotly.figure_factory
-matplotlib.pyplot
-plotly.express
